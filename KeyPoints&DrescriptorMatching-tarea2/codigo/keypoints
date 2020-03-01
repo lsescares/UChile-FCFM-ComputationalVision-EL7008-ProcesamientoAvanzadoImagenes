@@ -1,0 +1,91 @@
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ ./tarea2_parte1
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+my_object
+IMAGENcasa detector ptos interes:ORB
+Keypoints imagen original = 438
+Keypoints imagen escalada  = 112
+Keypoints imagen rotada = 493
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+my_object
+IMAGENdibujo detector ptos interes:ORB
+Keypoints imagen original = 500
+Keypoints imagen escalada  = 409
+Keypoints imagen rotada = 500
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+my_object
+IMAGENfigurasllenas detector ptos interes:ORB
+Keypoints imagen original = 194
+Keypoints imagen escalada  = 79
+Keypoints imagen rotada = 258
+Presione ENTER en una ventana o CTRL-C para salir
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ make
+Scanning dependencies of target tarea2_parte1
+[ 33%] Building CXX object CMakeFiles/tarea2_parte1.dir/main_parte1.cpp.o
+[ 66%] Linking CXX executable tarea2_parte1
+[100%] Built target tarea2_parte1
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ ./tarea2_parte1
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+my_object
+IMAGEN: casa, detector ptos interes:SIFT
+Keypoints imagen original = 478
+Keypoints imagen escalada  = 151
+Keypoints imagen rotada = 571
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+my_object
+IMAGEN: dibujo, detector ptos interes:SIFT
+Keypoints imagen original = 190
+Keypoints imagen escalada  = 118
+Keypoints imagen rotada = 208
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+my_object
+IMAGEN: figurasllenas, detector ptos interes:SIFT
+Keypoints imagen original = 42
+Keypoints imagen escalada  = 16
+Keypoints imagen rotada = 50
+Presione ENTER en una ventana o CTRL-C para salir
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ make
+Scanning dependencies of target tarea2_parte1
+[ 33%] Building CXX object CMakeFiles/tarea2_parte1.dir/main_parte1.cpp.o
+[ 66%] Linking CXX executable tarea2_parte1
+[100%] Built target tarea2_parte1
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ ./tarea2_parte1
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+IMAGEN= casa, detector ptos interes= SIFT
+Keypoints imagen original = 478
+Keypoints imagen escalada  = 151
+Keypoints imagen rotada = 571
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+IMAGEN= dibujo, detector ptos interes= SIFT
+Keypoints imagen original = 190
+Keypoints imagen escalada  = 118
+Keypoints imagen rotada = 208
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+IMAGEN= figurasllenas, detector ptos interes= SIFT
+Keypoints imagen original = 42
+Keypoints imagen escalada  = 16
+Keypoints imagen rotada = 50
+Presione ENTER en una ventana o CTRL-C para salir
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ make
+Scanning dependencies of target tarea2_parte1
+[ 33%] Building CXX object CMakeFiles/tarea2_parte1.dir/main_parte1.cpp.o
+[ 66%] Linking CXX executable tarea2_parte1
+[100%] Built target tarea2_parte1
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ ./tarea2_parte1
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+IMAGEN= casa, detector ptos interes= GFTT
+Keypoints imagen original = 1000
+Keypoints imagen escalada  = 319
+Keypoints imagen rotada = 1000
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+IMAGEN= dibujo, detector ptos interes= GFTT
+Keypoints imagen original = 372
+Keypoints imagen escalada  = 128
+Keypoints imagen rotada = 348
+---------------------NUEVA IMAGEN SELECCIONADA-------------------
+IMAGEN= figurasllenas, detector ptos interes= GFTT
+Keypoints imagen original = 55
+Keypoints imagen escalada  = 34
+Keypoints imagen rotada = 75
+Presione ENTER en una ventana o CTRL-C para salir
+(base) luis@luis-VirtualBox:~/Escritorio/tarea2/tarea2_material_alumnos/parte1/build$ 
+

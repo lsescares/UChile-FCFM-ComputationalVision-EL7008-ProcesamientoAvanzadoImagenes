@@ -1,0 +1,13 @@
+¿how to run cpp file?
+¿como correr un archivo cpp?
+0-necesitamos el cpp y cmakefile
+0-necesitamos: ubuntu, anaconda y openCV instalado con anaconda
+1-creamo una carpeta con el proyecto. ejemplo: carpeta: tarea1
+2- en la carpeta tarea1 pones el archivo cpp y su cmakefile correspondiente
+3-dentro de tarea 1 creamos una carpeta llamada build
+4- entramos a la carpeta build, click derecho y click en 'abrir en un terminal'
+5. escribir: 'cmake ..'
+   esto ejecuta el archivo cmakefile en la direccion '..' (que es la carpeta padre de la carpeta donde estamos), en este casp tarea1 es la carpeta padre de build. Al ejecutar el archivo cmake se crean todos los archivos necesarios para correr el codigo de cpp dentro de la carpeta build. 
+6- en esa misma terminal, escribir 'make' lo que compila el codigo cpp, si hay errores de compilacion aqui se mostraran.
+7- ejecutar el codigo escribir ./tarea1  o './nombredelejecutable', la instruccion anterior muestra el nombre del ejecutable y tambien sale en el archivo cmakelist, no es un ejecutable como los de windows ni tampoco el nombre de alguna clase en el codigo, sino que es como el nombre que se le da al codigo.
+8- el punto anterior ejecuta el scrip, si se han guardado imagenes se guardaran en la carpeta build
